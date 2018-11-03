@@ -1,6 +1,6 @@
 # Efficient Large-scale Approximate Nearest Neighbor Search on the GPU
 
-This repositoy contains the implementation of **Product Quantization Trees** (PQT) for large scale nearest neighbor search.
+This repository contains the implementation of **Product Quantization Trees** (PQT) for large scale nearest neighbor search.
 
     @inproceedings{PQT,
         author = "Patrick Wieschollek and Oliver Wang and Alexander Sorkine-Hornung and Hendrik P.A. Lensch",
